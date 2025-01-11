@@ -59,9 +59,9 @@ df_grouped = df_cleaned.groupby('Column1').sum()  # Group by a column and sum va
 
 **5. Tracking Budget Line Items**
 
-With the cleaned and manipulated data, you can now track budget line items and campus budgets effectively. Use pandas to perform various analyses and generate reports as needed.
+With the cleaned and manipulated data, we can then track budget line items and campus budgets effectively. We use pandas to perform various analyses and generate reports as needed.
 
 #### Conclusion
 Using tabula-py for budget balance tracking simplifies the process of extracting, cleaning, and manipulating data from PDFs. By setting up the Java environment and leveraging the capabilities of tabula-py and pandas, you can efficiently manage and track budget line items and campus budgets. This approach not only saves time but also ensures accuracy in financial tracking and reporting.
 
-If you have any specific questions or need further assistance, feel free to ask!
+
